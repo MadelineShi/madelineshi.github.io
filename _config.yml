@@ -1,0 +1,30 @@
+title: Madeline Shi
+logo: /profile.jpg
+
+description: |
+  <p>
+    Contact:
+    <a href="mailto:mashi@davidson.edu">mashi@davidson.edu</a>
+    <br>
+
+    GitHub:
+    <a href="https://github.com/MadelineShi">MadelineShi</a>
+    <br>
+
+    <a href="/Madeline_Shi_CV.pdf">CV</a>
+  </p>
+
+  <br>
+
+  <p>
+    <strong>News</strong>
+  </p>
+
+  <p>
+    <small>
+      2026.08 Completed a summer research internship at the Shenzhen Institute of Computing Sciences.
+    </small>
+  </p>
+
+theme: jekyll-theme-minimal
+show_downloads: false
