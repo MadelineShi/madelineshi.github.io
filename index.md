@@ -2,8 +2,8 @@
 layout: default
 ---
 
-<div style="margin-bottom: 18px;">
-  <p style="font-size: 21px; line-height: 1.65; color: #333; margin-bottom: 14px;">
+<div style="margin-bottom: 30px;">
+  <p style="font-size: 18px; line-height: 1.65; color: #333; margin-bottom: 14px;">
     I am a senior <strong>Computer Science</strong> student at
     <a href="https://www.davidson.edu/">Davidson College</a>,
     advised by
