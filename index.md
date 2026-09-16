@@ -2,11 +2,43 @@
 layout: default
 ---
 
-I am a senior studying Computer Science at [Davidson College](https://www.davidson.edu/), graduating in May 2027.
+<div style="margin-bottom: 30px;">
+  <p style="font-size: 21px; line-height: 1.65; color: #333; margin-bottom: 14px;">
+    I am a senior <strong>Computer Science</strong> student at
+    <a href="https://www.davidson.edu/">Davidson College</a>,
+    advised by
+    <a href="https://www.davidson.edu/people/terrence-lim">Prof. Terrence Lim</a>.
+  </p>
 
-I am interested in data management and database systems, particularly how databases can incorporate AI-generated proposals while preserving explicit execution semantics and supporting meaningful guarantees about result quality. I am also exploring how [graph-pattern association rules](https://homepages.inf.ed.ac.uk/wenfei/papers/vldb15-GPAR.pdf) capture relationships in data and support inference.
+  <p style="font-size: 18px; line-height: 1.7; color: #444; margin-bottom: 0;">
+    My research interests lie in <strong>data management and database systems</strong>,
+    particularly how databases can incorporate AI-generated proposals
+    while supporting <strong>reproducible execution decisions</strong>
+    and meaningful guarantees about result quality.
+  </p>
+</div>
 
-In Summer 2026, I was a research intern at the Shenzhen Institute of Computing Sciences, working with [Prof. Wenfei Fan](https://homepages.inf.ed.ac.uk/wenfei/)'s team on **DECIDE**.
+<div style="display: flex; flex-wrap: wrap; gap: 12px 20px;
+            border-left: 3px solid #267cb9; padding: 4px 0 4px 18px;
+            margin-bottom: 36px;">
+  <div style="flex: 0 0 85px;">
+    <span style="display: block; font-size: 12px; font-weight: 700;
+                 letter-spacing: 1px; color: #267cb9;">
+      RECENT
+    </span>
+    <span style="font-size: 14px; color: #555;">Aug 2026</span>
+  </div>
+
+  <p style="flex: 1 1 250px; font-size: 17px; line-height: 1.7;
+            color: #444; margin: 0;">
+    I completed a summer research internship at the
+    <strong>Shenzhen Institute of Computing Sciences</strong>,
+    working with
+    <a href="https://homepages.inf.ed.ac.uk/wenfei/">Prof. Wenfei Fan</a>'s
+    team on <strong>DECIDE</strong>, a project investigating reproducible
+    and certifiable decisions in agent-augmented databases.
+  </p>
+</div>
 
 ## Research
 
