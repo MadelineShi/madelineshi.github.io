@@ -2,12 +2,11 @@ title: Madeline Shi
 logo: "/profile%20photo.JPG"
 
 description: |
-   <p>
+  <p>
     Contact:
-    <a href="mailto:mashi@davidson.edu">mashi@davidson.edu</a>
-    <br>
-
-    <span style="display: inline-block; margin-left: 67px;">
+    <span style="display: inline-block; vertical-align: top;">
+      <a href="mailto:mashi@davidson.edu">mashi@davidson.edu</a>
+      <br>
       <a href="mailto:shiml.madeline@gmail.com">shiml.madeline@gmail.com</a>
     </span>
     <br><br>
