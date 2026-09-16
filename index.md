@@ -2,6 +2,57 @@
 layout: default
 ---
 
+<style>
+  /* Main sections: Research, Selected Projects, Beyond Research */
+  section h2 {
+    margin: 36px 0 22px;
+    padding-bottom: 10px;
+    border-bottom: 1px solid #dbe3ea;
+    font-size: 24px;
+    color: #222;
+  }
+
+  /* Individual research and project titles */
+  section h3 {
+    position: relative;
+    margin: 26px 0 12px;
+    padding-left: 16px;
+    font-size: 18px;
+    color: #333;
+  }
+
+  section h3::before {
+    content: "";
+    position: absolute;
+    left: 0;
+    top: 0.55em;
+    width: 6px;
+    height: 6px;
+    border-radius: 50%;
+    background: #267cb9;
+  }
+
+  /* Hide the theme's duplicate GitHub profile link */
+  header .view {
+    display: none;
+  }
+
+  /* Allow a longer sidebar without overlapping the footer */
+  @media screen and (min-width: 961px) {
+    header {
+      position: static;
+    }
+
+    footer {
+      position: static;
+      clear: both;
+      width: auto;
+      padding-top: 24px;
+    }
+  }
+</style>
+
+
 <div style="margin-bottom: 30px;">
   <p style="font-size: 18px; line-height: 1.65; color: #333; margin-bottom: 14px;">
     I am a senior <strong>Computer Science</strong> student at
