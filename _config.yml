@@ -2,35 +2,30 @@ title: Madeline Shi
 logo: "/profile%20photo.JPG"
 
 description: |
-  <p>
-    Contact:
-    <span style="display: inline-block; vertical-align: top;">
-      <a href="mailto:mashi@davidson.edu">mashi@davidson.edu</a>
-      <br>
-      <a href="mailto:shiml.madeline@gmail.com">shiml.madeline@gmail.com</a>
-    </span>
-    <br><br>
+  <div style="display: grid; grid-template-columns: max-content minmax(0, 1fr); column-gap: 6px; margin-bottom: 12px;">
+    <span>Contact:</span>
+    <div style="min-width: 0; overflow-wrap: anywhere;">
+      <a href="mailto:mashi@davidson.edu" style="display: block;">mashi@davidson.edu</a>
+      <a href="mailto:shiml.madeline@gmail.com" style="display: block;">shiml.madeline@gmail.com</a>
+    </div>
+  </div>
 
-    <a href="https://github.com/MadelineShi">GitHub</a>
-    <br>
+  <div style="line-height: 1.8; margin-bottom: 22px;">
+    <a href="https://github.com/MadelineShi">GitHub</a><br>
+    <a href="https://www.linkedin.com/in/manlin-shi-965621310/">LinkedIn</a><br>
+    <span>Resume</span>
+  </div>
 
-    <a href="https://www.linkedin.com/in/manlin-shi-965621310/">LinkedIn</a>
-    <br>
-
-    <a href="/Madeline_Shi_CV.pdf">CV</a>
-  </p>
-
-  <br>
-
-  <p>
-    <strong>News</strong>
-  </p>
-
-  <p>
-    <small>
-      2026.08 Completed a summer research internship at the Shenzhen Institute of Computing Sciences.
-    </small>
-  </p>
+  <h3 style="font-size: 16px; margin: 0 0 8px;">News</h3>
+  <ul style="list-style-type: disc; margin: 0; padding-left: 18px; font-size: 13px; line-height: 1.6;">
+    <li style="margin-bottom: 10px;">
+      <strong>2026.08</strong> — Completed a summer research internship at the Shenzhen Institute of Computing Sciences, working on DECIDE.
+    </li>
+    <li style="margin-bottom: 10px;">
+      <strong>Summer 2025</strong> — Explored compiler bug isolation through research readings with Prof. Terrence Lim.
+    </li>
+    <!-- Add another dated update here; keep the newest three in reverse chronological order. -->
+  </ul>
 
 theme: jekyll-theme-minimal
 show_downloads: false
