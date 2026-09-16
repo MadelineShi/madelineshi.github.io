@@ -46,10 +46,21 @@ layout: default
 
 **Reproducible Decisions in Agent-Augmented Databases**
 *Shenzhen Institute of Computing Sciences · Summer 2026 · Ongoing research*
+*Advised by [Prof. Wenfei Fan](https://scholar.google.com/citations?user=u0S6ofAAAAAJ&hl=en)*
 
 AI agents can suggest how to process and query data, but a database must determine which proposals it can execute and what guarantees it can support. DECIDE investigates a database-controlled decision layer that checks external proposals, makes reproducible selections under a fixed decision context, and records evidence for decision replay and result-quality certification.
 
 I have been examining the assumptions behind these mechanisms through related-work analysis and project discussions. A particular focus is when evidence from individual operators supports a guarantee for an entire query combining relational processing, approximate retrieval, and model inference. My planned contribution is to develop worked examples that make these assumptions and their consequences concrete.
+
+### Compiler Bug Isolation
+
+*Davidson College · Summer 2025 · Exploratory research*
+*Advised by [Prof. Terrence Lim](https://www.davidson.edu/people/terrence-lim)*
+
+I explored compiler bug isolation through readings on [DiWi](https://doi.org/10.1145/3338906.3338957) and [RecBi](https://doi.org/10.1145/3324884.3416570), studying how test-program mutation and compiler execution coverage help identify likely fault locations. My reading focused on the differences between heuristic search and reinforcement-learning-guided mutation, and on how generated tests provide evidence for fault localization.
+
+Looking back, I see a connection to my current interests in agent-augmented databases: how automated proposals are checked, what evidence supports their use, and under what conditions the resulting decisions can be reproduced.
+
 
 ## Selected Projects
 
