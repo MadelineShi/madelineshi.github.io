@@ -12,7 +12,7 @@ layout: default
 
   <p style="font-size: 18px; line-height: 1.7; color: #444; margin-bottom: 0;">
     My research interests lie in <strong>data management and database systems</strong>,
-    particularly how databases can incorporate AI-generated proposals
+    particularly how databases can incorporate agent-generated proposals
     while supporting <strong>reproducible execution decisions</strong>
     and meaningful guarantees about result quality.
   </p>
